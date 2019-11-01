@@ -6,17 +6,25 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ldx1214/NextDemo.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "next": "^9.1.2",
-    "react": "^16.11.0",
-    "react-dom": "^16.11.0"
-  }
+  "bugs": {
+    "url": "https://github.com/Ldx1214/NextDemo/issues"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev" : "next" ,
     "build" : " next build",
     "start" : "next start"
+  },
+  "homepage": "https://github.com/Ldx1214/NextDemo#readme",
+  "dependencies": {
+    "next": "^9.1.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
   }
 }
